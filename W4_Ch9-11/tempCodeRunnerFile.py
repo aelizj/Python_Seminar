@@ -1,5 +1,4 @@
-    # def __init__(self):
-    #     """Initialize apartment building."""
-
-    # def print_hello(self):
-    #     return "hello"
+  
+  def __init__(self, word):
+    """Initialize word attribute via superclass."""
+    super().__init__(word)
